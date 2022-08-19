@@ -1,0 +1,195 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #14213D;
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 2.5rem;
+  color: #FCA311;
+}
+
+h3 {
+color: #034732;
+}
+
+p {
+  line-height: 1.5;
+  font-weight: 400;
+color: #E7E7E7;
+}
+
+li {
+line-height: 1.5;
+font-weight: 400;
+color: #14213D;
+}
+
+/* Hero Section */
+#navigation {
+height: 220px;
+}
+
+#hero {
+height: 700px
+}
+
+
+.container-fluid {
+  padding: 3% 8% 7%;
+}
+
+.navbar-brand {
+width: 15px;
+}
+
+.nav-link {
+  color: #14213D;
+}
+
+.nav-link:hover {
+  color: #FCA311;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.location {
+  color: #E7E7E7;
+}
+
+.location-icon {
+  color: red;
+}
+
+.hero-paragraph {
+  color: #034732;
+}
+
+.yellow-text {
+  color: #FCA311;
+}
+
+.btn {
+  margin: 5% 3% 5% 0;
+  font-size: 1rem;
+  width: 11rem;
+  height: 3rem;
+}
+
+.hero-btn1 {
+  background-color: #14213D;
+  border: 0;
+}
+
+.hero-btn1:hover {
+background-color: #334469;
+border: 0;
+}
+
+.hero-btn2 {
+  background-color: #FCA311;
+  border: 0;
+}
+
+.hero-btn2:hover {
+  background-color: #ECAD47;
+  border: 0;
+}
+
+.hero-img {
+  width: 95%;
+  padding-left: 19%;
+}
+
+/* PORTFOLIO */
+#portfolio {
+background-color: #14213D;
+padding-top: 3rem;
+padding-bottom: 3rem;
+}
+
+.section-title {
+padding-bottom: 1rem;
+}
+
+.casestudy-img {
+border-radius: 30px;
+}
+
+.casestudy-img:hover {
+opacity: 50%;
+}
+
+.portfolio-col {
+padding: 1rem;
+}
+
+
+
+/* Connect Section */
+.connect-div {
+background-color: #E7E7E7;
+border-radius: 30px;
+}
+
+.connect {
+padding-top: 10rem;
+padding-bottom: 0;
+}
+
+
+
+/* About Page */
+
+.mini-bio {
+padding-top: 5%;
+}
+.education {
+padding-top: 10%;
+}
+.bio-blurb {
+color: #14213D;
+}
+
+.about-img {
+width: 95%;
+}
+
+/* tools */
+.tools {
+background-color: #14213D;
+height: 150px;
+text-align: center;
+}
+
+.tool-brand {
+margin: 0 3% 0 0;
+}
+/* Services Section */
+#services {
+padding-top: 5%;
+}
+
+.center-align {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.service-icon {
+  color: #14213D;
+margin-bottom: 5rem;
+}
+
+/* Footer */
+.footer {
+padding-top: 3rem;
+padding-bottom: 3rem;
+}
